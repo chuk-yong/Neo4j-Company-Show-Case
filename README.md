@@ -8,4 +8,6 @@ Neo4j-Aura is the same project but using Aura which is AWS hosted.  Other than s
 
 > To change what a Node display
 
-This is call "caption".  Change it by going to the list of labels, click on it ( Case for example ), there will be an option for caption.  Change it to display CaseID instead of Case description.
+This is call "caption".  
+
+In Neo4j Aura, hover over the nodes and you will see on the right panel showing the properties.  Going over the right panel, Change it by going to the list of labels, click on it ( Case for example ), there will be an option for caption.  Change it to display CaseID instead of Case description.
